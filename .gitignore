@@ -60,3 +60,6 @@ fabric.properties
 *.csv
 *log.txt
 *.idea
+
+
+/node_modules
